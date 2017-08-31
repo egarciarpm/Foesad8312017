@@ -1,6 +1,6 @@
 /* CSS Document */
 
-@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text|Permanent+Marker|Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 body{
 	
@@ -38,18 +38,5 @@ a:hover{
 	padding: 10px;
 	display: block;
 }
-@media only screen and (max-width: 700px) {
 
-   body { 
-      font-size: 1em; 
-   }
-
-}
-@media only screen and (max-width: 900px) {
-
-   body { 
-      font-size: 4em; 
-   }
-
-}
 
