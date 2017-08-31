@@ -1,0 +1,55 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text|Permanent+Marker|Shadows+Into+Light');
+
+body{
+	
+
+font-family: 'Permanent Marker', cursive;
+
+}
+
+h1{
+	text-align: center;
+	padding-top:3px;
+	margin-top: 0px;
+	
+	
+}
+a{
+	color:#FF0004;
+}
+a:hover{
+	color:#0BE53F;
+	
+}
+
+.toprow{
+
+	top:0px;
+}
+.botrow{
+	
+	bottom: 0px;
+}
+.midlogo{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	display: block;
+}
+@media only screen and (max-width: 700px) {
+
+   body { 
+      font-size: 1em; 
+   }
+
+}
+@media only screen and (max-width: 900px) {
+
+   body { 
+      font-size: 4em; 
+   }
+
+}
+
